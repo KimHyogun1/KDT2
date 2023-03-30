@@ -51,6 +51,10 @@
 		{
 			"Name": "LiveLinkFaceImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "HDRIBackdrop",
+			"Enabled": true
 		}
 	]
 }
